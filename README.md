@@ -1,3 +1,3 @@
 # hanoi-towers-qt
 
-Animated hanoi towers written in Qt C++
+Animated towers of Hanoi written in Qt C++
