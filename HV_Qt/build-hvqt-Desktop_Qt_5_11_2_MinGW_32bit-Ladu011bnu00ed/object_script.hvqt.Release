@@ -1,0 +1,13 @@
+INPUT(
+./release\Algorithm.o
+./release\customqgraphicsscene.o
+./release\list.o
+./release\main.o
+./release\mainwindow.o
+./release\node.o
+./release\settings.o
+./release\qrc_imgs.o
+./release\moc_graphicsrectitem.o
+./release\moc_mainwindow.o
+./release\moc_settings.o
+);

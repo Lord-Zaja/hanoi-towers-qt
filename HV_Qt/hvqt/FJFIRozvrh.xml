@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+<ArrayOfTimetableField xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TimetableField>
+    <department>K. matematiky</department>
+    <department_acr>KM</department_acr>
+    <lecture_name>Matematika 3</lecture_name>
+    <lecture_acr>MAT3</lecture_acr>
+    <color>7590422</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/01MAT3</course_href>
+    <tag />
+    <practice>0</practice>
+    <lecturer>Krejcirik</lecturer>
+    <day>Pondělí</day>
+    <day_order>0</day_order>
+    <time_hours>9</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>9:30</time>
+    <time_order>2</time_order>
+    <building>Trojanova</building>
+    <classroom>T-101</classroom>
+    <UniqueID>845317785</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. matematiky</department>
+    <department_acr>KM</department_acr>
+    <lecture_name>Matematika 3</lecture_name>
+    <lecture_acr>MAT3cv</lecture_acr>
+    <color>7590422</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/01MAT3</course_href>
+    <tag>cv</tag>
+    <practice>1</practice>
+    <lecturer>Kurimaiova</lecturer>
+    <day>Středa</day>
+    <day_order>2</day_order>
+    <time_hours>9</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>9:30</time>
+    <time_order>2</time_order>
+    <building>Trojanova</building>
+    <classroom>T-209</classroom>
+    <UniqueID>442728374</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. fyziky</department>
+    <department_acr>KF</department_acr>
+    <lecture_name />
+    <lecture_acr>IJZ</lecture_acr>
+    <color>16153724</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/02IJZ</course_href>
+    <tag />
+    <practice>0</practice>
+    <lecturer>Contreras</lecturer>
+    <day>Čtvrtek</day>
+    <day_order>3</day_order>
+    <time_hours>15</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>15:30</time>
+    <time_order>8</time_order>
+    <building>Brehová</building>
+    <classroom>B-11</classroom>
+    <UniqueID>-586608453</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. fyziky</department>
+    <department_acr>KF</department_acr>
+    <lecture_name>Vlnení, optika a atomová fyzika</lecture_name>
+    <lecture_acr>VOAF</lecture_acr>
+    <color>16153724</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/02VOAF</course_href>
+    <tag />
+    <practice>0</practice>
+    <lecturer>Schmidt</lecturer>
+    <day>Středa</day>
+    <day_order>2</day_order>
+    <time_hours>13</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>13:30</time>
+    <time_order>6</time_order>
+    <building>Trojanova</building>
+    <classroom>T-201</classroom>
+    <UniqueID>1672179954</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. fyziky</department>
+    <department_acr>KF</department_acr>
+    <lecture_name>Vlnení, optika a atomová fyzika</lecture_name>
+    <lecture_acr>VOAF</lecture_acr>
+    <color>16153724</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/02VOAF</course_href>
+    <tag />
+    <practice>0</practice>
+    <lecturer>Schmidt</lecturer>
+    <day>Čtvrtek</day>
+    <day_order>3</day_order>
+    <time_hours>13</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>13:30</time>
+    <time_order>6</time_order>
+    <building>Trojanova</building>
+    <classroom>T-201</classroom>
+    <UniqueID>168528258</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. fyziky</department>
+    <department_acr>KF</department_acr>
+    <lecture_name>Vlnení, optika a atomová fyzika</lecture_name>
+    <lecture_acr>VOAFcv</lecture_acr>
+    <color>16153724</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/02VOAF</course_href>
+    <tag>cv</tag>
+    <practice>1</practice>
+    <lecturer>---</lecturer>
+    <day>Pondělí</day>
+    <day_order>0</day_order>
+    <time_hours>15</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>15:30</time>
+    <time_order>8</time_order>
+    <building>Trojanova</building>
+    <classroom>T-207</classroom>
+    <UniqueID>1746850091</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. matematiky</department>
+    <department_acr>KM</department_acr>
+    <lecture_name>Matematická statistika</lecture_name>
+    <lecture_acr>PRST</lecture_acr>
+    <color>7590422</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/01PRST</course_href>
+    <tag />
+    <practice>0</practice>
+    <lecturer>Hobza</lecturer>
+    <day>Úterý</day>
+    <day_order>1</day_order>
+    <time_hours>9</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>9:30</time>
+    <time_order>2</time_order>
+    <building>Trojanova</building>
+    <classroom>T-101</classroom>
+    <UniqueID>2080263320</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. matematiky</department>
+    <department_acr>KM</department_acr>
+    <lecture_name>Matematická statistika</lecture_name>
+    <lecture_acr>PRSTcv</lecture_acr>
+    <color>7590422</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/01PRST</course_href>
+    <tag>cv</tag>
+    <practice>0</practice>
+    <lecturer>Hobza</lecturer>
+    <day>Čtvrtek</day>
+    <day_order>3</day_order>
+    <time_hours>11</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>11:30</time>
+    <time_order>4</time_order>
+    <building>Trojanova</building>
+    <classroom>T-201</classroom>
+    <UniqueID>478293291</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. fyziky</department>
+    <department_acr>KF</department_acr>
+    <lecture_name>Kvantová fyzika</lecture_name>
+    <lecture_acr>KF</lecture_acr>
+    <color>16153724</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/02KF</course_href>
+    <tag />
+    <practice>0</practice>
+    <lecturer>Jizba P.</lecturer>
+    <day>Úterý</day>
+    <day_order>1</day_order>
+    <time_hours>15</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>15:30</time>
+    <time_order>8</time_order>
+    <building>Brehová</building>
+    <classroom>B-114</classroom>
+    <UniqueID>-962179718</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. fyziky</department>
+    <department_acr>KF</department_acr>
+    <lecture_name>Kvantová fyzika</lecture_name>
+    <lecture_acr>KFcv</lecture_acr>
+    <color>16153724</color>
+    <period>Ne</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/02KF</course_href>
+    <tag>cv</tag>
+    <practice>1</practice>
+    <lecturer>---</lecturer>
+    <day>Středa</day>
+    <day_order>2</day_order>
+    <time_hours>10</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>10:30</time>
+    <time_order>3</time_order>
+    <building>Brehová</building>
+    <classroom>B-10</classroom>
+    <UniqueID>-1720657031</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. fyziky</department>
+    <department_acr>KF</department_acr>
+    <lecture_name />
+    <lecture_acr>SPRA1</lecture_acr>
+    <color>16153724</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/02SPRA1</course_href>
+    <tag />
+    <practice>1</practice>
+    <lecturer>Cepila</lecturer>
+    <day>Úterý</day>
+    <day_order>1</day_order>
+    <time_hours>11</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>11:30</time>
+    <time_order>4</time_order>
+    <building>Brehová</building>
+    <classroom>KF-122</classroom>
+    <UniqueID>-1265997602</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. fyziky</department>
+    <department_acr>KF</department_acr>
+    <lecture_name>Základy jaderné fyziky 1</lecture_name>
+    <lecture_acr>ZJF</lecture_acr>
+    <color>16153724</color>
+    <period>Ano</period>
+    <duration>3</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/02ZJF</course_href>
+    <tag />
+    <practice>0</practice>
+    <lecturer>Wagner</lecturer>
+    <day>Středa</day>
+    <day_order>2</day_order>
+    <time_hours>7</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>7:30</time>
+    <time_order>0</time_order>
+    <building>Brehová</building>
+    <classroom>B-10</classroom>
+    <UniqueID>-461717516</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. fyziky</department>
+    <department_acr>KF</department_acr>
+    <lecture_name>Základy jaderné fyziky 1</lecture_name>
+    <lecture_acr>ZJFcv</lecture_acr>
+    <color>16153724</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/02ZJF</course_href>
+    <tag>cv</tag>
+    <practice>1</practice>
+    <lecturer>Wagner</lecturer>
+    <day>Pondělí</day>
+    <day_order>0</day_order>
+    <time_hours>7</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>7:30</time>
+    <time_order>0</time_order>
+    <building>Trojanova</building>
+    <classroom>T-204</classroom>
+    <UniqueID>1866607616</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. jazyku</department>
+    <department_acr>KJ</department_acr>
+    <lecture_name>Jazyky</lecture_name>
+    <lecture_acr>JAZ</lecture_acr>
+    <color>11184810</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/04JAZ</course_href>
+    <tag />
+    <practice>1</practice>
+    <lecturer>---</lecturer>
+    <day>Pondělí</day>
+    <day_order>0</day_order>
+    <time_hours>9</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>9:30</time>
+    <time_order>2</time_order>
+    <building>Trojanova</building>
+    <classroom>T-208</classroom>
+    <UniqueID>-1156136489</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. jazyku</department>
+    <department_acr>KJ</department_acr>
+    <lecture_name>Jazyky</lecture_name>
+    <lecture_acr>JAZ</lecture_acr>
+    <color>11184810</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/04JAZ</course_href>
+    <tag />
+    <practice>1</practice>
+    <lecturer>---</lecturer>
+    <day>Úterý</day>
+    <day_order>1</day_order>
+    <time_hours>13</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>13:30</time>
+    <time_order>6</time_order>
+    <building>Trojanova</building>
+    <classroom>T-209</classroom>
+    <UniqueID>313917850</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. jazyku</department>
+    <department_acr>KJ</department_acr>
+    <lecture_name>Jazyky</lecture_name>
+    <lecture_acr>JAZ</lecture_acr>
+    <color>11184810</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/04JAZ</course_href>
+    <tag />
+    <practice>1</practice>
+    <lecturer>---</lecturer>
+    <day>Středa</day>
+    <day_order>2</day_order>
+    <time_hours>15</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>15:30</time>
+    <time_order>8</time_order>
+    <building>Trojanova</building>
+    <classroom>T-211</classroom>
+    <UniqueID>1854783171</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. jazyku</department>
+    <department_acr>KJ</department_acr>
+    <lecture_name>Jazyky</lecture_name>
+    <lecture_acr>JAZ</lecture_acr>
+    <color>11184810</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/04JAZ</course_href>
+    <tag />
+    <practice>1</practice>
+    <lecturer>---</lecturer>
+    <day>Čtvrtek</day>
+    <day_order>3</day_order>
+    <time_hours>9</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>9:30</time>
+    <time_order>2</time_order>
+    <building>Trojanova</building>
+    <classroom>T-208</classroom>
+    <UniqueID>2021185938</UniqueID>
+  </TimetableField>
+  <TimetableField>
+    <department>K. dozimetrie a aplikace ionizujícího zárení</department>
+    <department_acr>KDAIZ</department_acr>
+    <lecture_name />
+    <lecture_acr>MEIZ</lecture_acr>
+    <color>3433892</color>
+    <period>Ano</period>
+    <duration>2</duration>
+    <course_href>http://geraldine.fjfi.cvut.cz/WORK/Anketa/ZS2013/67_pub/courses/16MEIZ</course_href>
+    <tag />
+    <practice>0</practice>
+    <lecturer>Novotný</lecturer>
+    <day>Úterý</day>
+    <day_order>1</day_order>
+    <time_hours>17</time_hours>
+    <time_minutes>30</time_minutes>
+    <time>17:30</time>
+    <time_order>10</time_order>
+    <building>Brehová</building>
+    <classroom>B-215</classroom>
+    <UniqueID>-2089355095</UniqueID>
+  </TimetableField>
+</ArrayOfTimetableField>
